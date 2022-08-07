@@ -30,7 +30,7 @@ twitter_username: AlexMountainBN
 github_username:  AlexMountainBN
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
